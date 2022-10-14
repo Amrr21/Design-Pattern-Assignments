@@ -9,3 +9,5 @@ So, dependency inversion is about how classes are designed. The principle makes 
 Dependency injection, on the other hand, is about how one object knows the dependencies of other objects, so that it can inject them, when needed. Dependency Injection is about how objects get their dependencies.
 
 As you see, both are different, but somewhat related.
+
+Ref : https://ocw.tudelft.nl/course-readings/4-4-4-dependency-injection-vs-dependency-inversion-principle/
